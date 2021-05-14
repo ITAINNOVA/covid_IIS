@@ -28,6 +28,10 @@ Shap values are not represented in this demo-app due to privacy and data protect
 
 ## Contributors:
 
+- Rocío Aznar Gimeno - [raznar@itainnova.es](raznar@itainnova.es)
+- Rafael del Hoyo Alonso - [rdelhoyo@itainnova.es](rdelhoyo@itainnova.es)
+- David Abadía Gallego - [dabadia@gmail.com](dabadia@gmail.com)
+- Gorka Labata Lezaun - [glabata@itainnova.es](glabata@itainnova.es)
 
 ## Cite:
 Pending
