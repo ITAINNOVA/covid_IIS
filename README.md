@@ -34,6 +34,5 @@ The 20 variables considered are: *Age, Oxygen saturation, Diagnosed dementia, Ob
 - Gorka Labata Lezaun - [glabata@itainnova.es](glabata@itainnova.es)
 
 ## Cite:
-Pending
 
 Esta actuación está cofinanciada por el Fondo Europeo de Desarrollo regional en el marco del Programa Operativo FEDER Aragón 2014-2020, cuyo lema es “Construyendo Europa desde Aragón”.
