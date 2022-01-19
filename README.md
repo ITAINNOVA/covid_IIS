@@ -1,5 +1,3 @@
-Esta actuación está cofinanciada por el Fondo Europeo de Desarrollo regional en el marco del Programa Operativo FEDER Aragón 2014-2020, cuyo lema es “Construyendo Europa desde Aragón”.
-
 # covid_IIS:
 "covid_IIS" is a Python app developed to predict the outcome of COVID-19 patients in the moment of hospital admission. It returns the probability given by our machine learning model (XGBOOST) of unfavorable outcome (ICU admission or death) and the corresponding value (as a Cut-off analysis was performed and a probability greater than 0.4 is considered high enought to be 'severe') It is designed to use as less variables as possible (only 20). All such variables as selected between the most common ones, available in many hospitals. It is released under European Union Public License (EUPL).
 
@@ -37,3 +35,5 @@ The 20 variables considered are: *Age, Oxygen saturation, Diagnosed dementia, Ob
 
 ## Cite:
 Pending
+
+Esta actuación está cofinanciada por el Fondo Europeo de Desarrollo regional en el marco del Programa Operativo FEDER Aragón 2014-2020, cuyo lema es “Construyendo Europa desde Aragón”.
